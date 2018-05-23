@@ -1,7 +1,29 @@
-.column {
+.column1 {
   width: 450px;
   float: left;
   padding: 15px;
+  background-color: lightblue;
+}
+
+.column2 {
+  width: 450px;
+  float: left;
+  padding: 15px;
+  background-color: crimson;
+}
+
+.column3 {
+  width: 450px;
+  float: left;
+  padding: 15px;
+  background-color: yellow;
+}
+
+.column4 {
+  width: 450px;
+  float: left;
+  padding: 15px;
+  background-color: lightgreen;
 }
 
 img {
